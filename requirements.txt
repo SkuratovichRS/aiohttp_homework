@@ -1,0 +1,12 @@
+aiohttp==3.10.10
+aiohttp[speedups]
+aiodns==3.2.0
+sqlalchemy==2.0.36
+asyncpg==0.29.0
+bcrypt==4.2.0
+python-dotenv==1.0.1
+aiohttp-jwt==0.6.1
+pydantic==2.9.2
+
+
+
